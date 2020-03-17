@@ -1,7 +1,7 @@
 # Site Settings
-name: SpicyTechBaba
+name: Spicy TechBaba
 title: Spicy TechBaba
-description: Diegofornalha
+description: Spicy TechBaba reviews
 tags:
   - blog
   - template
@@ -25,12 +25,12 @@ paginate: 12
 
 # Social Media Settings
 # Remove the item if you don't need it
-github_username: github_username
-facebook_username: facebook_username
-twitter_username: twitter_username
-instagram_username: instagram_username
-linkedin_username: linkedin_username
-medium_username: medium_username
+# github_username: github_username
+facebook_username: spicytechbaba
+twitter_username: spicytechbaba
+instagram_username: spicytechbaba
+# linkedin_username: linkedin_username
+medium_username: spicytechbaba
 
 
 # Posts Settings
@@ -41,8 +41,8 @@ two_columns_layout: true
 
 
 # Advanced Settings
-baseurl: "/spicytechbaba2/" # the subpath of your site, e.g. /blog
-url: "spicytechbaba.github.io" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site
 google_analytics: "UA-160805250-1"
 language: "en"
 categories_folder: category
@@ -57,7 +57,7 @@ collections:
   authors:
     output: true
 paginate_path: "/page/:num/"
-show_get_theme_btn: true
+show_get_theme_btn: false
 use_logo: false
 
 # Content paginator

@@ -1,6 +1,6 @@
-baseurl: "picytechbaba2" # the subpath of your site, e.g. /blog
-url: "https://spicytechbaba.github.io/" # the base hostname & protocol for your site
-google_analytics: "UA-XXXXXXXX-X"
+baseurl: "spicytechbaba2" # the subpath of your site, e.g. /blog
+url: "spicytechbaba.github.io" # the base hostname & protocol for your site
+google_analytics: "UA-160805250-1"
 language: "en"
 categories_folder: category
 sent_message_url: "/contact/message-sent/"

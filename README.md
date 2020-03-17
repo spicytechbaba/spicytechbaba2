@@ -80,11 +80,11 @@ Create the file `/assets/css/styles.scss` and add:
 ---
 ---
 
-$themeColor: #ff0a16;
-$primaryDark: #141414;
-$accentDark: #ffffff;
-$lightGray: #f2f2f2;
-$texts: #333333;
+$themeColor: #ffb947;
+$primaryDark: #7da6d4;
+$accentDark: #fbdf6b;
+$lightGray: #909dc1;
+$texts: ##ff00ff;
 
 @import "jekflix";
 ```

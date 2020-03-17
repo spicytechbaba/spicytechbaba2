@@ -1,5 +1,5 @@
-name: Diego
-title: Coflow
+name: SpicyTechBaba
+title: Spicy TechBaba
 description: Diegofornalha
 tags:
   - blog
@@ -17,5 +17,6 @@ menu:
     url: /contact
   - title: Feed
     url: /feed.xml
-email: youremail@xyz.com
-disqus_username: disqus_username
+email: desitechhq@gmail.com
+disqus_username: spicy_username
+paginate: 12
